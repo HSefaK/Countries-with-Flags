@@ -13,7 +13,7 @@ class Network {
     
     private let headers: HTTPHeaders = [
         "x-rapidapi-host": "wft-geo-db.p.rapidapi.com",
-        "x-rapidapi-key": "e065cb2db9msh44f2e5f138d27b3p1413b6jsn9fbe941449ac"
+        "x-rapidapi-key": "YOURAPIHERE"
     ]
     private let headURL = "https://wft-geo-db.p.rapidapi.com/v1"
     private let bodyURL = "/geo/countries"
